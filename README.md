@@ -1,3 +1,3 @@
 # hello-word
-Hello world first repository following the GitHub guide
-I'm studying Data Science
+Hello world repository is my first repository following the GitHub guide
+while I'm studying Data Science.
